@@ -1,2 +1,3 @@
 # AtCoder
-This project is for AtCoder
+AtCoderで書いたコードを置いとくとこ。
+コードは適当
