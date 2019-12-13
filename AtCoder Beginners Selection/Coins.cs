@@ -1,7 +1,6 @@
 using System;
 using System.Linq;
 
-
 namespace AtCoder
 {
     public class Program
@@ -14,10 +13,8 @@ namespace AtCoder
             var aim = int.Parse(Console.ReadLine());
             var count = 0;
 
-
             for(int i = 0; i <= yen_500; i++)
-            {
-                
+            {           
                 for(int j= 0; j <= yen_100; j++)
                 {
                     for(int k = 0; k <= yen_50; k++)
