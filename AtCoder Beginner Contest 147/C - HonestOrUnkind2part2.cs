@@ -45,11 +45,10 @@ namespace AtCoder
                             {
                                 flag = false;
                             }
-                            
                         }
                     }
                 }
-                if (flag)
+                if (flag)//今回の仮定が正しかったので正直者の数を数える
                 {
                     var c=0;//立っているビットの数、つまり正直者の数
                     for(int n = 0; n < N; n++)
